@@ -1,3 +1,9 @@
 HEAD is the current commit.
 
 git diff compares working directory and staging directory.
+
+remote refers to repositories
+
+ignore forking, that is github specific
+
+
